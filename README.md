@@ -1,6 +1,6 @@
 # Olá! Eu sou o Felipe Rodrigues 👋
 
-### Business Scientist in Transition | Operations @ Blip | Knowledge Architecture
+### Business Scientist in Transition | Operations @ Blip | Data Science Student @ Unicamp 
 
 Sou Analista Sênior de Operações em Ecosystem Enablement na [Blip](https://www.blip.ai), onde opero na interseção entre educação corporativa, operações e dados dentro da diretoria de Alianças & Parcerias. Minha formação em Fotografia e Arte me deu um olhar analítico e criativo sobre contextos complexos; minha experiência em RH me trouxe fluência em negócios e pessoas. Agora estou adicionando o ferramental de Data Science para me tornar um **Cientista de Negócios** — o profissional que traduz problemas reais de negócio em soluções orientadas por dados.
 
