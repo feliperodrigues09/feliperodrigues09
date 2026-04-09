@@ -52,7 +52,7 @@ Sou Analista Sênior de Operações em Ecosystem Enablement na [Blip](https://ww
 ### 🔗 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-rodrigues-a551864b/)
-[![GitHub Pages](https://img.shields.io/badge/-Portfolio-222?style=flat-square&logo=github&logoColor=white)](https://github.com/feliperodrigues09)
+[![GitHub Pages](https://img.shields.io/badge/-Portfolio-222?style=flat-square&logo=github&logoColor=white)](https://feliperodrigues09.github.io)
 
 ---
 
