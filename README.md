@@ -56,15 +56,6 @@ Sou Analista Sênior de Operações em Ecosystem Enablement na [Blip](https://ww
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
-
 <p align="center">
   <em>"Cientistas de Negócios estão transformando as áreas de negócio em ambientes de experimentação e dados, empoderando profissionais não técnicos e fomentando uma cultura de inovação e experimentação potencializada por dados."</em>
 </p>
