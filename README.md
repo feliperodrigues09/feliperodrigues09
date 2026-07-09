@@ -39,7 +39,7 @@ Sou Analista Sênior de Operações em Ecosystem Enablement na [Blip](https://ww
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| **Collection Mensalidade Escola | Segmentação & Teste A/B** | Análise de inadimplência e performance de recuperação (Case isaac/Arco Educação). | Python · Pandas · Scipy |
+| **Collection Mensalidade Escola / Segmentação & Teste A/B** | Análise de inadimplência e performance de recuperação (Case isaac/Arco Educação). | Python · Pandas · Scipy |
 | **OULAD Analysis** | Análise exploratória do Open University Learning Analytics Dataset — identificação de padrões de engajamento e predição de evasão em plataformas educacionais | Python · Pandas · Seaborn |
 | *Learning Analytics @ Blip** | Construção de visão analítica de aprendizagem via API e dashboards (Users, Skills, Pathways, Activity) | Power BI · API |
 | **Assistente Blip Academy** | Idealizador e Product Manager de um Contato Inteligente (IA + NLP) para a plataforma Blip Academy — definição de requisitos e gestão de roadmap. Premiado com 4º lugar no AI Code Combat (hackathon interno), tornando-se projeto em continuação | Blip Studio · AI · NLP |
