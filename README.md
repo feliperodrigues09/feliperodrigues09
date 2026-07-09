@@ -1,4 +1,4 @@
-# Olá! Eu sou o Felipe Rodrigues 👋
+# Olá! Eu sou o Felipe Rodrigues
 
 ### Business Scientist in Transition | Operations @ Blip | Data Science Student @ Unicamp 
 
@@ -20,18 +20,18 @@ Sou Analista Sênior de Operações em Ecosystem Enablement na [Blip](https://ww
 |---|---|
 | **Linguagens** | Python · SQL |
 | **Data & Analytics** | Pandas · NumPy · Matplotlib · Seaborn |
-| **Bancos de Dados** | SQLite |
+| **Bancos de Dados** | SQLite · BigQuery |
 | **Automação** | Google Apps Script · API Gemini |
-| **Ambiente** | Ubuntu · VS Code · Jupyter |
+| **Ambiente** | Ubuntu · VS Code · Jupyter · Git/GitHub |
 | **AI & Automação** | Prompt Engineering · Claude · Agentes de IA |
 
 ---
 
 ### 📚 Formação
 
-- 🎓 **Pós-Graduação em Data Science** — Extecamp/Unicamp (2026–2027)
-- 🎓 **Especialização em Fotografia e Arte** — Centro Universitário Senac SP
-- 🎓 **Graduação em Fotografia** — Centro Universitário Senac SP
+- **Pós-Graduação em Data Science** — Extecamp/Unicamp (2026–2027)
+- **Especialização em Fotografia e Arte** — Centro Universitário Senac SP
+- **Graduação em Fotografia** — Centro Universitário Senac SP
 
 ---
 
@@ -39,11 +39,12 @@ Sou Analista Sênior de Operações em Ecosystem Enablement na [Blip](https://ww
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| 🔬 **OULAD Analysis** | Análise exploratória do Open University Learning Analytics Dataset — identificação de padrões de engajamento e predição de evasão em plataformas educacionais | Python · Pandas · Seaborn |
-| 📊 **Learning Analytics @ Blip** | Construção de visão analítica de aprendizagem via API e dashboards (Users, Skills, Pathways, Activity) | Power BI · API |
-| 🤖 **Assistente Blip Academy** | Idealizador e Product Manager de um Contato Inteligente (IA + NLP) para a plataforma Blip Academy — definição de requisitos e gestão de roadmap. Premiado com 4º lugar no AI Code Combat (hackathon interno), tornando-se projeto em continuação | Blip Studio · AI · NLP |
-| 🔄 **Migração Degreed → Notion** | Liderança da governança de conteúdos educacionais com cruzamento de bases e análises de relevância, resultando em otimização de 72% do portfólio (5.000 → 1.400 conteúdos). Automações via Apps Script e API Gemini para geração de metadados (descrições e tags) na migração de 1.400 documentos | Apps Script · API Gemini · Notion |
-| 🏅 **Catálogo de Habilidades com IA** | Uso de prompts para gerar e classificar 1.000+ habilidades com descrições e níveis de proficiência para a transformação SBO (Skill-based Organization) da Blip | AI · Prompt Engineering |
+| **Collection Mensalidade Escola | Segmentação & Teste A/B** | Análise de inadimplência e performance de recuperação (Case isaac/Arco Educação). | Python · Pandas · Scipy |
+| **OULAD Analysis** | Análise exploratória do Open University Learning Analytics Dataset — identificação de padrões de engajamento e predição de evasão em plataformas educacionais | Python · Pandas · Seaborn |
+| *Learning Analytics @ Blip** | Construção de visão analítica de aprendizagem via API e dashboards (Users, Skills, Pathways, Activity) | Power BI · API |
+| **Assistente Blip Academy** | Idealizador e Product Manager de um Contato Inteligente (IA + NLP) para a plataforma Blip Academy — definição de requisitos e gestão de roadmap. Premiado com 4º lugar no AI Code Combat (hackathon interno), tornando-se projeto em continuação | Blip Studio · AI · NLP |
+| **Migração Degreed → Notion** | Liderança da governança de conteúdos educacionais com cruzamento de bases e análises de relevância, resultando em otimização de 72% do portfólio (5.000 → 1.400 conteúdos). Automações via Apps Script e API Gemini para geração de metadados (descrições e tags) na migração de 1.400 documentos | Apps Script · API Gemini · Notion |
+| **Catálogo de Habilidades com IA** | Uso de prompts para gerar e classificar 1.000+ habilidades com descrições e níveis de proficiência para a transformação SBO (Skill-based Organization) da Blip | AI · Prompt Engineering |
 
 > *Repositórios em construção — projetos sendo migrados e documentados.*
 
